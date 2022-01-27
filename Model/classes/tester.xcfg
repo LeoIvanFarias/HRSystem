@@ -1,0 +1,59 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BC4JConfig version="11.1" xmlns="http://xmlns.oracle.com/bc4j/configuration">
+   <AppModuleConfigBag ApplicationName="demo.model.AppModule">
+      <AppModuleConfig name="17E07D117CE" JDBCName="HRConn" DeployPlatform="LOCAL" jbo.project="demo.model.Model" IsLazyLoadingTrue="true" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" ApplicationName="demo.model.AppModule" DBconnection="java:comp/env/jdbc/HRConnDS">
+         <Database jbo.locking.mode="optimistic" jbo.TypeMapEntries="OracleApps" JDBCDataSource="java:comp/env/jdbc/HRConnDS" jbo.SQLBuilder="Oracle"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+      <AppModuleConfig name="17E08174DFA" DBconnection="java:comp/env/jdbc/HRConnDS" ApplicationName="demo.model.AppModule" DeployPlatform="LOCAL" IsLazyLoadingTrue="true" JDBCName="HRConn" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" jbo.project="demo.model.Model">
+         <Database jbo.TypeMapEntries="OracleApps" jbo.SQLBuilder="Oracle" JDBCDataSource="java:comp/env/jdbc/HRConnDS"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+      <AppModuleConfig name="17E0818EC5D" DBconnection="java:comp/env/jdbc/HRConnDS" ApplicationName="demo.model.AppModule" DeployPlatform="LOCAL" IsLazyLoadingTrue="true" JDBCName="HRConn" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" jbo.project="demo.model.Model">
+         <Database jbo.TypeMapEntries="OracleApps" jbo.SQLBuilder="Oracle" JDBCDataSource="java:comp/env/jdbc/HRConnDS"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+      <AppModuleConfig name="17E082A88CF" DBconnection="java:comp/env/jdbc/HRConnDS" ApplicationName="demo.model.AppModule" DeployPlatform="LOCAL" IsLazyLoadingTrue="true" JDBCName="HRConn" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" jbo.project="demo.model.Model">
+         <Database jbo.TypeMapEntries="OracleApps" jbo.SQLBuilder="Oracle" JDBCDataSource="java:comp/env/jdbc/HRConnDS"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+      <AppModuleConfig name="17E0D1E1FD9" DBconnection="java:comp/env/jdbc/HRConnDS" ApplicationName="demo.model.AppModule" DeployPlatform="LOCAL" IsLazyLoadingTrue="true" JDBCName="HRConn" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" jbo.project="demo.model.Model">
+         <Database jbo.TypeMapEntries="OracleApps" jbo.SQLBuilder="Oracle" JDBCDataSource="java:comp/env/jdbc/HRConnDS"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+      <AppModuleConfig name="17E0D25AF6E" DBconnection="java:comp/env/jdbc/HRConnDS" ApplicationName="demo.model.AppModule" DeployPlatform="LOCAL" IsLazyLoadingTrue="true" JDBCName="HRConn" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" jbo.project="demo.model.Model">
+         <Database jbo.TypeMapEntries="OracleApps" jbo.SQLBuilder="Oracle" JDBCDataSource="java:comp/env/jdbc/HRConnDS"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+      <AppModuleConfig name="17E0D26A352" DBconnection="java:comp/env/jdbc/HRConnDS" ApplicationName="demo.model.AppModule" DeployPlatform="LOCAL" IsLazyLoadingTrue="true" JDBCName="HRConn" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" jbo.project="demo.model.Model">
+         <Database jbo.TypeMapEntries="OracleApps" jbo.SQLBuilder="Oracle" JDBCDataSource="java:comp/env/jdbc/HRConnDS"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+      <AppModuleConfig name="17E0D2844B8" DBconnection="java:comp/env/jdbc/HRConnDS" ApplicationName="demo.model.AppModule" DeployPlatform="LOCAL" IsLazyLoadingTrue="true" JDBCName="HRConn" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" jbo.project="demo.model.Model">
+         <Database jbo.TypeMapEntries="OracleApps" jbo.SQLBuilder="Oracle" JDBCDataSource="java:comp/env/jdbc/HRConnDS"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+      <AppModuleConfig name="17E0D4FF34F" DBconnection="java:comp/env/jdbc/HRConnDS" ApplicationName="demo.model.AppModule" DeployPlatform="LOCAL" IsLazyLoadingTrue="true" JDBCName="HRConn" java.naming.factory.initial="oracle.jbo.common.JboInitialContextFactory" BC4JConfigName="AppModuleLocal" jbo.project="demo.model.Model">
+         <Database jbo.TypeMapEntries="OracleApps" jbo.SQLBuilder="Oracle" JDBCDataSource="java:comp/env/jdbc/HRConnDS"/>
+         <Security AppModuleJndiName="demo.model.AppModule"/>
+         <Tester FullProxyInterfaceName="demo.model.common.AppModule"/>
+         <Custom ns0:tester_classloader_enabled="true" ns0:_testers_credentials_needed="false" xmlns:ns0="http://xmlns.oracle.com/bc4j/configuration"/>
+      </AppModuleConfig>
+   </AppModuleConfigBag>
+</BC4JConfig>
